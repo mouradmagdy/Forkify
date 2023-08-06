@@ -4,8 +4,8 @@
   "description": "Recipe application",
   "default": "index.html",
   "scripts": {
-    "start": "Parcel index.html",
-    "build": "Parcel build index.html --dist-dir ./dist"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Mourad Magdy",
   "license": "ISC",
